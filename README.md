@@ -1,3 +1,4 @@
+<p>import blog.sql in your PHPmyAdmin. In db.php change username and password</p>
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
